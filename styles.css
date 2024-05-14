@@ -26,7 +26,10 @@ body {
     background-image: url("background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
+
 .container__botao {
     background-color: var(--botao-azul);
     border-radius: 5px;
